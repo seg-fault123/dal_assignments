@@ -1,3 +1,6 @@
 /.venv
 /assignment6/*.tsv
 /assignment7/*.csv
+/challenge/*.npy
+/challenge/*.txt
+/challenge/*.csv
